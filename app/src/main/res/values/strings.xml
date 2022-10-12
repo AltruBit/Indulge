@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Indulge</string>
+
+    <!-- Main -->
+    <string name="placeName">Name</string>
+    <string name="placeMeal">Meal</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="meal">Meal</string>
+    <string name="meal_name">Meal Name</string>
+    <string name="meal_rating">Rate the Meal</string>
+    <string name="comments">Comments</string>
+    <string name="meal_comment">Comment the Meal</string>
+    <string name="meal_description">Meal Description</string>
+
+    <!-- Buttons -->
+    <string name="ok">OK</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="right_arrow"><![CDATA[>]]></string>
+
+    <!-- User Info -->
+    <string name="full_name_hint">Full Name</string>
+    <string name="email_hint">Email Address</string>
+    <string name="login_txt">Login</string>
+    <string name="pwd_hint">Password</string>
+    <string name="sign_up_txt">Sign Up</string>
+    <string name="register_txt">Register</string>
+    <string name="place_address">Address</string>
+</resources>
